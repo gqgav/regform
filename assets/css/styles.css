@@ -1,0 +1,20 @@
+.headcenter {
+  text-align: center;
+  color: #ffffff;
+}
+
+.card-text::first-line {
+  font-size: larger;
+  font-weight: 800;
+  font-style: oblique;
+}
+
+#imgsize {
+  height: 650px;
+  width: 100%;
+}
+
+.container {
+  margin-top: 50px;
+}
+
